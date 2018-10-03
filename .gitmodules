@@ -1,0 +1,18 @@
+[submodule "my_plugins/vim-vue"]
+	path = my_plugins/vim-vue
+	url = https://github.com/posva/vim-vue
+[submodule "my_plugins/vim-javacomplete2"]
+	path = my_plugins/vim-javacomplete2
+	url = https://github.com/artur-shaik/vim-javacomplete2
+[submodule "my_plugins/vim-laravel"]
+	path = my_plugins/vim-laravel
+	url = https://github.com/noahfrederick/vim-laravel
+[submodule "my_plugins/vim-javascript"]
+	path = my_plugins/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "my_plugins/vim-scala"]
+	path = my_plugins/vim-scala
+	url = https://github.com/derekwyatt/vim-scala
+[submodule "my_plugins/elm-vim"]
+	path = my_plugins/elm-vim
+	url = https://github.com/ElmCast/elm-vim
